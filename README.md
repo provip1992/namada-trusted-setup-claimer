@@ -14,3 +14,4 @@ Once you've done that, you can choose to:
 
 1. Show the public key
 2. Sign a message
+cargo run
